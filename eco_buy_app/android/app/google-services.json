@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "629612698082",
+    "project_id": "eco-buy-536",
+    "storage_bucket": "eco-buy-536.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629612698082:android:04a960b3bc7fb794b441bb",
+        "android_client_info": {
+          "package_name": "com.example.eco_buy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVK3iKvmCDkY0aYDXWir3FBCuAbQyE0vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
